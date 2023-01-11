@@ -1,0 +1,7 @@
+
+video/
+node_modules/
+src/
+gulpfile.js
+*.webp
+*.jpg
